@@ -9,20 +9,22 @@ profile:
   image: me2.png
   address: 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# news: true  # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Senior Researcher, Microsoft Research Asia<br>
-Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
-jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
-[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) [CV (Chinese)](https://go.jd92.wang/cvchinese)
+Associate Professor, Peking University<br>
+Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China<br>
+huangzhou [at] pku.edu.cn<br>
+[Google scholar](https://scholar.google.com/citations?user=BUFSF_8AAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Zhou-Huang-3)
 
-I'm currently a Senior Researcher at [Microsoft Research Asia (MSRA)](http://www.msra.cn/), in a group managed by [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/). Before joining MSRA, I obtained my Ph.D. from Institute of Computing Technology, Chinese Academy of Sciences in June, 2019. My doctoral thesis was awarded the excellent Ph.D. thesis of Chinese Academy of Sciences. In 2018/04--2018/08, I was a visitor of Prof. [Qiang Yang](https://cse.hkust.edu.hk/~qyang/)'s group at Hong Kong University of Science and Technology (HKUST). My work on transfer learning won the best paper awards in ICCSE 2018 and FTL-IJCAI 2019. In 2021, I published the textbook [Introduction to Transfer Learning](http://jd92.wang/tlbook), a hands-on introduction to transfer learning. In 2022, I was selected as one of the [2022 AI 2000 Most Influential Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962c2a4) by AMiner between 2012-2021 (ranked 49/2000). Four of my first-author papers are ranked by Google Scholar as [highly-cited papers](https://zhuanlan.zhihu.com/p/421192644). I gave tutorials at [IJCAI'22](https://dgresearch.github.io/), WSDM 2023, and KDD 2023.
+I'm currently an associate professor in the [School of Earth and Space Sciences](https://sess.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) since 2014. I obtained my Ph.D. in Geographical Information Science in 2009 and pursued post-doctoral research at the same institution until 2011. My accolades in teaching include the ICBC Outstanding Teacher Award and the Third Prize in the 12th Young Teacher Teaching Skill Competition. Over the years, I've mentored 6 Ph.D. and 9 master's students, with four recognized as Excellent Graduates of Beijing and two as Excellent Graduates of PKU. My research, centered on high-performance geocomputation and spatiotemporal big data mining, has earned me the Young Cheung Kong Scholar title from the Ministry of Education and the Boya Young Fellow recognition from PKU. Funding-wise, I've secured over 19.53 million RMB for various projects. As for publications, I've authored 124 peer-reviewed papers, with X of them being first-authored or corresponding-authored, and have 4 patents to my name. In service roles, I've been the Deputy Director of the Institute of Remote Sensing & Geographic Information System at PKU and Associate Editor for journals like IEEE JSTARS & Resources, Environment, and Sustainability.
 
-**Research interest:** robust machine learning, out-of-distribution / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications such as activity recognition and computer vision. These days, I'm particularly interested in Large Language Models (LLMs) [evaluation](https://llm-eval.github.io/) and [robustness enhancement](https://llm-enhance.github.io/). See this [page](https://jd92.wang/research/) for more details. *Interested in [internship](https://zhuanlan.zhihu.com/p/102558267) or collaboration? Contact me.*
+**Research interest:** 
+- Build a more stable spatial infrastructure for geospatial big data
+- Human mobility modelling based on geospatial big data
+- High-resolution measurement for the built environment
+- Quantifying human-environment interactions in future cities:
 
-**Announcement:** I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested!
-
-
+**TO BE CONTINUE..**
