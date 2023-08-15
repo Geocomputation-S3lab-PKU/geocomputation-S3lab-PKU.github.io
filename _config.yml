@@ -78,8 +78,8 @@ panelbear_analytics:  # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Jindong Wang  # your blog must have a name for it to show up in the nav bar
-# blog_description: Jindong Wang's personal website
+# blog_name: Zhou Huang  # your blog must have a name for it to show up in the nav bar
+# blog_description: Zhou Huang's personal website
 # permalink: /blog/:year/:title/
 
 # Pagination
@@ -183,14 +183,14 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Wang
-  first_name: Jindong
+  last_name: Huang
+  first_name: Zhou
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: pubs.bib
+  bibliography: hz_refs.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
