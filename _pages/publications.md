@@ -30,7 +30,7 @@ weight: 2
 
 3. Jiang, Y.; <u><b>Huang, Z.</b></u>*; Li, L.; Dong Q. Local-global dual attention network (LGANet) for population estimation using remote sensing imagery. Resources, Environment and Sustainability, 2023, with major revision.
 
-4. iang, Y.; <u><b>Huang, Z.</b></u>*; Zhou, X.; Chen X. Evaluating the impact of urban morphology on urban vitality: an exploratory study using big geo-data. International Journal of Digital Earth, 2023, under review.
+4. Jiang, Y.; <u><b>Huang, Z.</b></u>*; Zhou, X.; Chen X. Evaluating the impact of urban morphology on urban vitality: an exploratory study using big geo-data. International Journal of Digital Earth, 2023, under review.
 
 5. Du, H.; <u><b>Huang, Z.</b></u>*; Zhang Y.; Zhang Y. An optimized edge-focused Siamese network for monitoring new illegal buildings using satellite images. IEEE Transactions on Geoscience and Remote Sensing, 2023, with resubmission.
 

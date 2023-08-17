@@ -16,15 +16,15 @@ nav: true
 
 #### Editorial services
 
-- Associate Editor, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**(IF=5.5, one of the four prestigious academic journals of IEEE GRSS, i.e., the Geoscience and Remote Sensing Division of IEEE), IEEE
-- Associate Editor, **Resources, Environment and Sustainability**, Elsevier
-- Editorial Board Member, **International Journal of Digital Earth** (IF=5.1, the official journal of the International Society for Digital Earth), Taylor & Francis
+- Associate Editor, **[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)**(IF=5.5, one of the four prestigious academic journals of IEEE GRSS, i.e., the Geoscience and Remote Sensing Division of IEEE), IEEE
+- Associate Editor, **[Resources, Environment and Sustainability](https://www.sciencedirect.com/journal/resources-environment-and-sustainability)**, Elsevier
+- Editorial Board Member, **[International Journal of Digital Earth](https://www.tandfonline.com/toc/tjde20/current)** (IF=5.1, the official journal of the International Society for Digital Earth), Taylor & Francis
 - As a Guest Editor, Dr. Zhou Huang has organized 5 special issues in international journals:
-  - **Urban Climate** (IF=6.4): Special Issue on "Unlocking lnsights into UrbanClimate with the Application of Spatio-Temporal Big Data"
-  - **GIScience & Remote Sensing** (IF=6.7): Special Issue on "Trajectory Data Computing and Mining" 
-  - **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** (IF=5.5): Special Issue on "Geospatial Data Science and Computational Intelligence in Remote Sensing and its Impact on Environmental Sustainability"
-  - **Electronics** (IF=2.9): Special Issue on "Innovative System Architectures for High-Performance Geospatial Computing"
-  - **Resources, Environment and Sustainability** (CiteScore=8.7): Special Issue on "Geocomputation for resources and environmental sciences ".
+  - **[Urban Climate](https://www.sciencedirect.com/journal/urban-climate)** (IF=6.4): [Special Issue on "Unlocking lnsights into UrbanClimate with the Application of Spatio-Temporal Big Data"](https://www.sciencedirect.com/journal/urban-climate/about/call-for-papers)
+  - **[GIScience & Remote Sensing](https://www.tandfonline.com/journals/tgrs20)** (IF=6.7): [Special Issue on "Trajectory Data Computing and Mining"](https://think.taylorandfrancis.com/special_issues/trajectory-data-computing-mining/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743)
+  - **[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)** (IF=5.5): [Special Issue on "Geospatial Data Science and Computational Intelligence in Remote Sensing and its Impact on Environmental Sustainability"](https://www.grss-ieee.org/wp-content/uploads/2023/07/cfp_Geospatial-Data-Science-in-Remote-Sensing-and-its-Impact-on-Environmental-Sustainability.pdf)
+  - **[Electronics](https://www.mdpi.com/journal/electronics)** (IF=2.9): [Special Issue on "Innovative System Architectures for High-Performance Geospatial Computing"](https://www.mdpi.com/journal/electronics/special_issues/9B6172YH18)
+  - **[Resources, Environment and Sustainability](https://www.sciencedirect.com/journal/resources-environment-and-sustainability)** (CiteScore=8.7): [Special Issue on "Geocomputation for resources and environmental sciences"](https://www.sciencedirect.com/journal/resources-environment-and-sustainability/about/call-for-papers).
 
 #### Society membership
 
