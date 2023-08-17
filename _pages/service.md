@@ -5,49 +5,48 @@ permalink: /service/
 nav: true
 ---
 
-#### Academic service
+#### School and university services
 
-- Journal editorship:
-  - Editorial board of young scientist, Journal of Computer Science and Technology (JCST) 
-- Conference organizer:
-  - IJCAI 2019 Publicity co-chair
-  - ICDM 2019 transfer learning session chair
-- Conference senior member/area chair:
-  - NeurIPS 2023 Area Chair for Dataset and Benchmark track
-  - AAAI 2023 senior PC
-  - IJCAI 2023 senior PC
-  - AAAI 2023 senior PC
-- Conference PC member: 
-  - ML area: ICML (2023, 2022, 2021, 2020); NeurIPS (2023, 2022, 2021, 2020); ICLR (2023, 2022, 2021)
-  - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV area: CVPR (2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
-  - DM area: KDD (2021); WWW (2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
-  - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
-- Journal reviewer: 
-  - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, TMC, ACM CSUR, ACM TIST, IEEE TBD, Knowledge-Based Systems, Neurocomputing, Pervasive and Mobile Computing.
-- Membership: 
-  - Member of CCF technical committee pervasive computing (TCPC)
-  - Member of human computer interaction (TCHCI)
-  - CCF member
+- Deputy Director, Institute of Remote Sensing and GIS, School of Earth and Space Sciences (SESS), Peking University
+- Deputy Director of Center for Artificial Intelligence and Earth Science, Peking University
+- Executive Deputy Director of Beijing Key Lab of Spatial Information Integration & Its Applications, Peking University
+- Executive Deputy Director of Engineering Research Center of Earth Observation and Navigation, Ministry of Education, China
+- Deputy Director of the Center for Habitable Intelligent Planet, Institute for Artificial Intelligence, Peking University
+- Repeatedly assumed the roles of undergraduate freshman mentor, member of undergraduate enrollment team in Jiangxi, and undergraduate class advisor (2012-2016, Class 5, Grade 12 undergraduate class in SESS).
 
-#### Awards
+#### Editorial services
 
-- Outstanding reviewer. NeurIPS 2022.
-- Innovation award. IJCAI federated learning workshop 2022.
-- Distinguished doctoral thesis award (中国科学院优秀博士学位论文奖) 2020.
-- Best Application Paper Award. IJCAI-19 Federated Machine Learning Workshop 2019.
-- Outstanding Scholarship of CAS president (中科院院长优秀奖) 2019.
-- Special scholarship of ICT (中科院计算所所长特别奖) 2019.
-- Student Scholarship. AAAI Conference on Artificial Intelligence (AAAI) 2019.
-- Student Travel Grant. ACM International Conference on Multimedia (ACMMM) 2018.
-- Outstanding Reviewer. Neurocomputing. 2018.
-- Best Paper. The 3rd International Conference on Crowd Science and Engineering (ICCSE) 2018.
-- Student Travel Award. International Conference on Machine Learning (ICML) 2018.
-- Student Scholarship. AAAI conference on Artificial Intelligence (AAAI) 2018.
-- National Scholarship for PhD students, Ministry of Education 2017.
-- Merit Student, UCAS 2017.
-- Second prize of Bewinner Innovation scholarship. 2017.
-- Excellent Graduate, NCUT 2014.
-- Excellent Bachelor's Graduation Thesis, NCUT 2014.
-- Beijing Merit Student, Beijing City 2013.
-- National Scholarship (3x), Ministry of Education 2012, 2013, 2014.
+- Associate Editor, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**(IF=5.5, one of the four prestigious academic journals of IEEE GRSS, i.e., the Geoscience and Remote Sensing Division of IEEE), IEEE
+- Associate Editor, **Resources, Environment and Sustainability**, Elsevier
+- Editorial Board Member, **International Journal of Digital Earth** (IF=5.1, the official journal of the International Society for Digital Earth), Taylor & Francis
+- As a Guest Editor, Dr. Zhou Huang has organized 5 special issues in international journals:
+  - **Urban Climate** (IF=6.4): Special Issue on "Unlocking lnsights into UrbanClimate with the Application of Spatio-Temporal Big Data"
+  - **GIScience & Remote Sensing** (IF=6.7): Special Issue on "Trajectory Data Computing and Mining" 
+  - **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** (IF=5.5): Special Issue on "Geospatial Data Science and Computational Intelligence in Remote Sensing and its Impact on Environmental Sustainability"
+  - **Electronics** (IF=2.9): Special Issue on "Innovative System Architectures for High-Performance Geospatial Computing"
+  - **Resources, Environment and Sustainability** (CiteScore=8.7): Special Issue on "Geocomputation for resources and environmental sciences ".
+
+#### Society membership
+
+- A series of memberships in international societies: IEEE member, ACM member, ISDE member, and CPGIS member
+- Member of the Theory and Methodology Committee, China Association for Geospatial Industry and Sciences
+- Member of Photogrammetry and Remote Sensing Committee, Chinese Society for Geodesy Photogrammetry and Cartography
+- Member of International Space-Time Information Comprehensive Service Professional Committee, Chinese Association for GNSS & LBS
+- Member of the Academic Committee of the Key Laboratory of the Ministry of Public Security for Police Geographic Information Technology, China
+
+#### Reviewer for refereed journals (A-Z)
+
+- Annals of GIS; Annals of the American Association of Geographers; Applied Sciences; Arabian Journal of Geosciences; Asian Journal of Geographical Research
+- Big Earth Data
+- Cities; Computers and Geosciences; Computers, Environment and Urban Systems
+- Environmental Earth Sciences; Environment and Planning B: Urban Analytics and City Science; Environmental Science & Technology
+- Frontiers in Ecology and Evolution
+- Geoscience and Remote Sensing Letters; GIScience & Remote Sensing
+- Heliyon
+- IEEE Access; IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing; IEEE Transactions on Industrial Informatics; Information Processing and Management; Information Sciences; International Journal of Applied Earth Observation and Geoinformation; International Journal of Digital Earth; International Journal of Geographical Information Science; ISPRS International Journal of Geo-Information; ISPRS Journal of Photogrammetry and Remote Sensing
+- Journal of Cleaner Production; Journal of Environmental Management; Journal of Spatial Science
+- Landscape and Urban Planning
+- PLOS One
+- Remote Sensing; Remote Sensing of Environment; Resources, Conservation & Recycling
+- Science of The Total Environment; Sensors; Sustainability; Scientific Reports; Sustainable Cities and Society
+- Transactions on Knowledge and Data Engineering; Transactions in GIS
