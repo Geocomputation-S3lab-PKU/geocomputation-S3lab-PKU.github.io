@@ -5,8 +5,13 @@
   {% if entry.type == "thesis" %}
   {{reference}}
   {% else %}
+
   {% if entry.url %}
-  <div class="title" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;"><a href="https://doi.org/{{ entry.doi }}">{{entry.title}}.</a></div>
+  <div class="title" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;"><a
+      href="{{ entry.url }}">{{entry.title}}.</a></div>
+  {% else %}
+  <div class="title" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;"><a
+      href="https://doi.org/{{ entry.doi }}">{{entry.title}}.</a></div>
   {% endif %}
   <div class="author" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;">
     {% for author in entry.author_array %}
@@ -26,16 +31,22 @@
     {% endfor %}
     {% endif %}
 
+    {% assign author_is_corr = false %}
+    {% assign full_name = author.last | append: ', ' | append: author.first %}
+    {% if entry.corr_authors contains full_name %}
+    {% assign author_is_corr = true %}
+    {% endif %}
+
     {% if forloop.length == 1 %}
     {% if author_is_self %}
-    {% if entry.corr %}
+    {% if author_is_corr %}
     <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.*</b></em><sup></sup>
     {% else %}
     <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.</b></em>
     {% endif %}
     {% else %}
-    {% if entry.corr %}
-    <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.</b></em><sup></sup>
+    {% if author_is_corr %}
+    <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.*</b></em><sup></sup>
     {% else %}
     <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.</b></em>
     {% endif %}
@@ -43,7 +54,7 @@
     {% else %}
     {% unless forloop.last %}
     {% if author_is_self %}
-    {% if entry.corr %}
+    {% if author_is_corr %}
     <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.*</b></em><sup></sup>
     {% else %}
     <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.</b></em>
@@ -52,17 +63,29 @@
     {% if coauthor_url %}
     <a href="{{coauthor_url}}">{{author.last}}, {{author.first | slice: 0, 1}}.</a>,
     {% else %}
+    {% if author_is_corr %}
+    {{author.last}}, {{author.first | slice: 0, 1}}.*,
+    {% else %}
     {{author.last}}, {{author.first | slice: 0, 1}}.,
+    {% endif %}
     {% endif %}
     {% endif %}
     {% else %}
     {% if author_is_self %}
+    {% if author_is_corr %}
+    and <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.*</b></em>
+    {% else %}
     and <em><b>{{author.last}}, {{author.first | slice: 0, 1}}.</b></em>
+    {% endif %}
     {% else %}
     {% if coauthor_url %}
     and <a href="{{coauthor_url}}">{{author.last}}, {{author.first | slice: 0, 1}}.</a>
     {% else %}
+    {% if author_is_corr %}
+    and {{author.last}}, {{author.first | slice: 0, 1}}.*
+    {% else %}
     and {{author.last}}, {{author.first | slice: 0, 1}}.
+    {% endif %}
     {% endif %}
     {% endif %}
     {% endunless %}

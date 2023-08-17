@@ -2,15 +2,15 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2011, 2010, 2009, 2008]
 nav: true
-weight: 2
+weight: 4
 ---
 
 [[Google scholar](https://scholar.google.com/citations?user=BUFSF_8AAAAJ&hl=en)] | [[ResearchGate](https://www.researchgate.net/profile/Zhou-Huang-3)] | [[View by topic](https://pku-geocomp.com/research/)]
 
-#### **Published Papers**
+#### **Journal Articles**
 
 <div class="publications">
 
@@ -53,13 +53,14 @@ weight: 2
 
 5. Zhang, Z.; <u><b>Huang, Z.</b></u>*. Arctic sea ice prediction with AIceNet. IEEE Transactions on Geoscience and Remote Sensing, 2023, in preparation and to be submitted.
 
+<br>
 
 #### **Patents**
 
-1. Huang, Z.; Chen, Y.; Gong, X.; Wang, Y.; Liu, Y. A real-time map matching method based on a hybrid parallel computing architecture with GPUs and Spark, 2022, ZL202010338544.4.
+1. <u><b>Huang, Z.</b></u>; Chen, Y.; Gong, X.; Wang, Y.; Liu, Y. A real-time map matching method based on a hybrid parallel computing architecture with GPUs and Spark, 2022, ZL202010338544.4.
 
-2. Yang, L.; Huang, Z. A method for classifying the supply-demand status of urban public transportation at a fine spatial scale based on the travel ratio, 2022, ZL202010794900.3
+2. Yang, L.; <u><b>Huang, Z.</b></u> A method for classifying the supply-demand status of urban public transportation at a fine spatial scale based on the travel ratio, 2022, ZL202010794900.3
 
-3. Huang, Z.; Wang, J.; Zhu, R. A parallel traffic simulation method based on traffic clustering, 2022, ZL202110187648.4.
+3. <u><b>Huang, Z.</b></u>; Wang, J.; Zhu, R. A parallel traffic simulation method based on traffic clustering, 2022, ZL202110187648.4.
 
-4. Wang, Y.; Huang, Z.; Yin, G.; Yang, L. An evaluation and optimization method for public transport network based on Ollivier-Ricci curvature, 2022, ZL202010460888.2
+4. Wang, Y.; <u><b>Huang, Z.</b></u>; Yin, G.; Yang, L. An evaluation and optimization method for public transport network based on Ollivier-Ricci curvature, 2022, ZL202010460888.2
