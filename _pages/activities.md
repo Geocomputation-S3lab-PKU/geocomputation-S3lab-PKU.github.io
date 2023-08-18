@@ -8,15 +8,15 @@ weight: 5
 
 #### **Research projects**
 
-- **Natural Science Foundation of China (42271471)**: “Computing Methods and Applications of Multi-Source Trajectory Big Data for Traffic Infrastructure Optimization”, 2023-2026, Principal Investigator, **560,000 RMB**
-- **China-Israel Cooperative Scientific Research Project, National Key Research and Development Program funded by the MOST (2017YFE0196100)**: “Mobility as a Service: From Rigid to Smart Evolving Public Transport”, 2019-2021, Principal Investigator (collaborated with Prof. Itzhak Benenson, Tel Aviv University), **1,640,000 RMB**
-- **Natural Science Foundation of China (41830645)**: “Spatial Interaction Network Theory and Analytical Methods Based on Big Data”, 2019-2023, Co-Investigator, **2,960,000 RMB**
-- **Natural Science Foundation of China (41771425)**: “Hotspot Mining and Intelligent Recommendation from Geotagged Social Media Data in High-Performance Computing Environments”, 2018-2021, Principal Investigator, **630,000 RMB**
-- **National Key Research and Development Program funded by the MOST (2017YFB0503602)**: “Geographical Location Perception from Geospatial Big Data”, 2017-2021, Co-Investigator, **3,900,000 RMB**
-- **China Economic Reform Promotion and Capacity Enhancement Program funded by the World Bank**: “Software Development for Index-Based Insurance of Wind Disasters in Hainan Rubber Plantations”, 2014-2016, Principal Investigator, **1,090,000 RMB**
-- **National Science and Technology Support Program funded by the MOST (2013BAK03B07)**: “National Emergency Drill Simulation Service Platform and Its Applications”, 2013-2015, Co-Investigator, **300,000 RMB**
-- **National Science and Technology Support Program funded by the MOST (2011BAH06B01)**: “Development of Geospatial Information Processing and Analysis Toolkits”, 2011-2014, Co-Investigator, **4,640,000 RMB**
-- **Natural Science Foundation of China (41001218)**: “Implementation Techniques of Geospatial Query Workflow in High-Performance Grid Computing System”, 2011-2013, Principal Investigator, **180,000 RMB**
+- **Natural Science Foundation of China (42271471)**: “Computing Methods and Applications of Multi-Source Trajectory Big Data for Traffic Infrastructure Optimization”, 2023-2026, Principal Investigator, 560,000 RMB
+- **China-Israel Cooperative Scientific Research Project, National Key Research and Development Program funded by the MOST (2017YFE0196100)**: “Mobility as a Service: From Rigid to Smart Evolving Public Transport”, 2019-2021, Principal Investigator (collaborated with Prof. Itzhak Benenson, Tel Aviv University), 1,640,000 RMB
+- **Natural Science Foundation of China (41830645)**: “Spatial Interaction Network Theory and Analytical Methods Based on Big Data”, 2019-2023, Co-Investigator, 2,960,000 RMB
+- **Natural Science Foundation of China (41771425)**: “Hotspot Mining and Intelligent Recommendation from Geotagged Social Media Data in High-Performance Computing Environments”, 2018-2021, Principal Investigator, 630,000 RMB
+- **National Key Research and Development Program funded by the MOST (2017YFB0503602)**: “Geographical Location Perception from Geospatial Big Data”, 2017-2021, Co-Investigator, 3,900,000 RMB
+- **China Economic Reform Promotion and Capacity Enhancement Program funded by the World Bank**: “Software Development for Index-Based Insurance of Wind Disasters in Hainan Rubber Plantations”, 2014-2016, Principal Investigator, 1,090,000 RMB
+- **National Science and Technology Support Program funded by the MOST (2013BAK03B07)**: “National Emergency Drill Simulation Service Platform and Its Applications”, 2013-2015, Co-Investigator, 300,000 RMB
+- **National Science and Technology Support Program funded by the MOST (2011BAH06B01)**: “Development of Geospatial Information Processing and Analysis Toolkits”, 2011-2014, Co-Investigator, 4,640,000 RMB
+- **Natural Science Foundation of China (41001218)**: “Implementation Techniques of Geospatial Query Workflow in High-Performance Grid Computing System”, 2011-2013, Principal Investigator, 180,000 RMB
 
 <br>
 

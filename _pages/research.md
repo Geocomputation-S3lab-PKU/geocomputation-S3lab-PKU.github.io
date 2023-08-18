@@ -10,7 +10,7 @@ My recent research revolves around the development of ***innovative GC4US (Geoco
 
 <center>
 <img src="../assets/img/overview.png" title="The Geocomputation for urban sustainability framework" style="width: 55%"/>
-<figcaption>Figure 1: <i>The GC4US framework using geospatial big data. Multisource geospatial big data serves as the foundation for urban sensing</i></figcaption>
+<figcaption>Figure 1: <i>The GC4US framework using geospatial big data.</i></figcaption>
 </center>
 
 
@@ -65,9 +65,9 @@ Dr. Huang has contributed to the exploration of urban residents' activity patter
 **2). Assessment methods for supply-demand in urban public transportation**
    - **[SciRep'20]** [A unified spatial multigraph analysis for public transport performance](https://www.nature.com/articles/s41598-020-66475-z). Wang, Y.; Zhu, D.; Yin, G.; <u><b>Huang, Z.</b></u>*; Liu, Y. Scientific reports, 2020, 10(1), 9573.
    - **[JAG'22]** [Applying Ollivier-Ricci curvature to indicate the mismatch of travel demand and supply in urban transit network](https://www.ijag.com/2022/106/102666). Wang, Y.; <u><b>Huang, Z.</b></u>*; Yin, G.; Li, H.; Yang, L.; Su, Y.; Liu, Y.; Shan, X. International Journal of Applied Earth Observation and Geoinformation, 2022, 106, 102666.
+   - **[JAG'23]** [How to quantify the travel ratio of urban public transport at a high spatial resolution? A novel computational framework with geospatial big data](https://www.ijag.com/2023/118/103245). Yin, G.; <u><b>Huang, Z.</b></u>*; Yang, L.; Ben-Elia, E.; Xu, L.; Scheuer, B.; Liu, Y. International Journal of Applied Earth Observation and Geoinformation, 2023, 118, 103245.
 
 **3). Next location prediction and personalized recommendation models**
-   - **[JAG'23]** [How to quantify the travel ratio of urban public transport at a high spatial resolution? A novel computational framework with geospatial big data](https://www.ijag.com/2023/118/103245). Yin, G.; <u><b>Huang, Z.</b></u>*; Yang, L.; Ben-Elia, E.; Xu, L.; Scheuer, B.; Liu, Y. International Journal of Applied Earth Observation and Geoinformation, 2023, 118, 103245.
    - **[IJDE'22]** [iTourSPOT: a context-aware framework for next POI recommendation in location-based social networks](https://www.ijde.com/2022/15/1/1614-1636). Wan, L.; Wang, H.; Hong, Y.; Li, R.; Chen, W.; <u><b>Huang, Z.</b></u>*. International Journal of Digital Earth, 2022, 15(1), 1614-1636.
    - **[IJGIS'21]** [A BiLSTM-CNN model for predicting users’ next locations based on geotagged social media](https://www.ijgis.com/2021/35/4/639-660). Bao, Y.; <u><b>Huang, Z.</b></u>*; Li, L.; Wang, Y.; Liu, Y. International Journal of Geographical Information Science, 2021, 35(4), 639-660.
    - **[IJDE'19]** [Building a model-based personalised recommendation approach for tourist attractions from geotagged social media data](https://www.ijde.com/2019/12/6/661-678). Sun, X.; <u><b>Huang, Z.</b></u>*; Peng, X.; Chen, Y.; Liu, Y. International Journal of Digital Earth, 2019, 12(6), 661-678.
@@ -86,7 +86,7 @@ To enhance the quantitative understanding of the built environment, Dr. Huang ha
 <br>
 
 **1). Urban land use type identification**
-   - **[JSTAR'21]** [An SOE-based learning framework using multisource big data for identifying urban functional zones](https://doi.org/10.1109/JSTARS.2021.3088482). Feng, Y.; <u><b>Huang, Z.</b></u>*; Wang, Y.; Wan, L.; Liu, Y.; Zhang, Y.; Shan, X. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14, 7336-7348.
+   - **[JSTARS'21]** [An SOE-based learning framework using multisource big data for identifying urban functional zones](https://doi.org/10.1109/JSTARS.2021.3088482). Feng, Y.; <u><b>Huang, Z.</b></u>*; Wang, Y.; Wan, L.; Liu, Y.; Zhang, Y.; Shan, X. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14, 7336-7348.
    - **[RS'20]** [An ensemble learning approach for urban land use mapping based on remote sensing imagery and social sensing data](https://doi.org/10.3390/rs12193254). <u><b>Huang, Z.</b></u>*; Qi, H.; Kang, C.; Su, Y.; Liu, Y. Remote Sensing, 2020, 12(19), 3254.
 
 **2). High-resolution estimation of urban built environment material stocks**
@@ -109,17 +109,17 @@ Dr. Huang has conducted a series of case studies examining the human-built envir
 
 <br>
 
-**1). Understanding the built environment’s effects on human mobility**
+**Case I：Understanding the built environment’s effects on human mobility**
    - **[SCS'23]** [The spatially varying effects of built environment characteristics on the integrated usage of dockless bike-sharing and public transport](https://www.sciencedirect.com/science/article/pii/S2210670723000234). Zhou, X.; Dong, Q.; <u><b>Huang, Z.</b></u>*; Yin, G.; Zhou, G.; Liu, Y. Sustainable Cities and Society, 2023, 89, 104348.
    - **[EPB'23]** [Quantifying the environmental characteristics influencing the attractiveness of commercial agglomerations with big geo-data](https://journals.sagepub.com/doi/abs/10.1177/23998083231158370). <u><b>Huang, Z.</b></u>; Yin, G.; Peng, X.*; Zhou, X.; Dong, Q. Environment and Planning B: Urban Analytics and City Science, 2023, https://doi.org/10.1177/23998083231158370.
    - **[RCR'23]** [Evaluating the human use efficiency of urban built environment and their coordinated development in a spatially refined manner](https://www.sciencedirect.com/science/article/pii/S0921344923000234). Bao, Y.; <u><b>Huang, Z.</b></u>*; Li, L.; Wang, H.; Lin, J.; Liu, G. Resources, Conservation and Recycling, 2023, 189, 106723.
 
-**2). Quantification of the human-built environment impacts on emissions**
+**Case II：Quantification of the human-built environment impacts on emissions**
    - **[STOTEN'22]** [Identifying spatiotemporal characteristics and driving factors for road traffic CO2 emissions](https://www.sciencedirect.com/science/article/pii/S0048969722000234). Zhou, X.; Wang, H.; <u><b>Huang, Z.</b></u>*; Bao, Y.; Zhou, G.; Liu, Y. Science of The Total Environment, 2022, 834, 155270.
    - **[BE'23]** [How building and street morphology affect CO2 emissions: Evidence from a spatially varying relationship analysis in Beijing](https://www.sciencedirect.com/science/article/pii/S0360132323000234). Dong, Q.; <u><b>Huang, Z.</b></u>*; Zhou, X.; Guo, Y.; Scheuer, B.; Liu, Y. Building and Environment, 2023, 236, 110258.
    - **[EMA'23]** [Quantifying spatially varying impacts of public transport on NO2 concentrations with big geo-data](https://link.springer.com/article/10.1007/s10661-023-10023-4). Wang, H.; Zhou, X.; Guo, H.; Dong, Q.; <u><b>Huang, Z.</b></u>*. Environmental Monitoring and Assessment, 2023, 195(6), 702.
 
-**3). Estimation of high-resolution building energy consumption based on human-built environment interactions**
+**Case III：Estimation of high-resolution building energy consumption based on human-built environment interactions**
    - **[Energy'23]** [High-resolution estimation of building energy consumption at the city level](https://www.sciencedirect.com/science/article/pii/S0360544223000234). Zhou, X.; <u><b>Huang, Z.</b></u>*; Scheuer, B.; Wang, H.; Zhou, G. Liu, Y. Energy, 2023, 275, 127476.
    - **[SCS'23]** [High-resolution spatial assessment of the zero energy potential of buildings with photovoltaic systems at the city level](https://www.sciencedirect.com/science/article/pii/S2210670723000235). Zhou, X.; <u><b>Huang, Z.</b></u>*; Scheuer, B.; Lu, W.; Zhou, G.; Liu, Y. Sustainable Cities and Society, 2023, 93, 104526.
 

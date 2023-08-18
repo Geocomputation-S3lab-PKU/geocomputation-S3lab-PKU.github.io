@@ -8,7 +8,7 @@ weight: 2
 
 #### **Courses**
 
-I have taught four courses with 490 total class hours in the past 5 years, including four independent courses: three undergraduate courses and one graduate course. This teaching work meets the requirement of “two independent courses” and “at least 90 hours per year”, specified by the university. In addition, the undergraduate education reform program owned by me, The Construction and Practice of the Core Curriculum of GIS Engineering Integrated with PIE, was approved as the industry-university cooperative education project of the Ministry of Education of China in 2022. These teaching courses and project aim to provide fundamental theory of computer science and GIS, as well as program developing skills, which are essential and beneficial to GIS students in their future academic study and industrial works. The detailed information of courses I taught is showed in the following table.
+I have taught four courses with 490 total class hours in the past 5 years, including four independent courses: three undergraduate courses and one graduate course. In addition, the undergraduate education reform program owned by me, The Construction and Practice of the Core Curriculum of GIS Engineering Integrated with PIE, was approved as the industry-university cooperative education project of the Ministry of Education of China in 2022. These teaching courses and project aim to provide fundamental theory of computer science and GIS, as well as program developing skills, which are essential and beneficial to GIS students in their future academic study and industrial works. The detailed information of courses I taught is showed in the following table.
 
 NO.|Course|Type|Year|Credits|Main Content|
 ---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ NO.|Course|Type|Year|Credits|Main Content|
 
 #### **Students**
 
-I have supervised 16 students, including 1 postdoc researcher (Xuexi Yang)，6 Ph.D. students (Shuliang Ren, Houji Qi, Jiangpeng Zheng, Yanxiao Jiang, Yi Bao, Ganmin Yin), 9 master students (Han Wang, Wenyuan Kong, Xinyu Wu, Yiran Chen, Xiaoyu Sun, Chen Fu, Xuri Gong, Liu Yang, Haode Du). There are 1 graduated Ph.D. students and 6 graduated masters. Among them, 4 were awarded the title of Excellent Graduates of Beijing (only 5% of graduates from Peking University receive this honor), and 2 were named Excellent Graduates of Peking University (only 15% of graduates from Peking University receive this honor). Additionally, the undergraduate student Ruilin Ye, whom I mentored, published an academic paper  as the first author in the top remote sensing journal JAG (IF=7.5) (2022). Furthermore, I also take great pride in the accomplishment of my first doctoral graduate, Yi Bao, who won the **Peking University Outstanding Doctoral Thesis Award** in 2023 (only 3 were selected out of 87 doctoral graduates in the School of Earth & Space Sciences). I also received **Outstanding Doctoral Thesis Advisor Award from Peking University**.
+I have supervised 16 students, including 1 postdoc researcher (Xuexi Yang)，6 Ph.D. students (Shuliang Ren, Houji Qi, Jiangpeng Zheng, Yanxiao Jiang, Yi Bao, Ganmin Yin), 9 master students (Han Wang, Wenyuan Kong, Xinyu Wu, Yiran Chen, Xiaoyu Sun, Chen Fu, Xuri Gong, Liu Yang, Haode Du). There are 1 graduated Ph.D. students and 6 graduated masters. Among them, 4 were awarded the title of Excellent Graduates of Beijing (only 5% of graduates from Peking University receive this honor), and 2 were named Excellent Graduates of Peking University (only 15% of graduates from Peking University receive this honor). Additionally, the undergraduate student Ruilin Ye published an academic paper as the first author in the top remote sensing journal JAG (IF=7.5) (2022). Furthermore, I also take great pride in the accomplishment of my first doctoral graduate, Yi Bao, who won the **Peking University Outstanding Doctoral Thesis Award** in 2023 (only 3 were selected out of 87 doctoral graduates in the School of Earth & Space Sciences). I also received **Outstanding Doctoral Thesis Advisor Award from Peking University**.
 
 Based on the study and research performance, other awards of group students are mainly outlined below:
 
@@ -35,16 +35,17 @@ Based on the study and research performance, other awards of group students are 
 
 <br>
 
-#### **Current Students Information**
+#### **Current Students**
 
  <table style="width:80%; table-layout:fixed;">
- <tr><th style="padding:5px;">Name</th><th style="padding:5px;">Degree</th><th style="padding:5px;">Study Period</th></tr>
- <tr><td style="padding:5px;">Shuliang Ren</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2022-2026</td></tr>
- <tr><td style="padding:5px;">Yanxiao Jiang</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2021-2025</td></tr>
- <tr><td style="padding:5px;">Jiangpeng Zheng</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2021-2025</td></tr>
- <tr><td style="padding:5px;">Ganmin Yin</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2020-2025</td></tr>
- <tr><td style="padding:5px;">Houji Qi</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2019-2025</td></tr>
- <tr><td style="padding:5px;">Fu Chen</td><td style="padding:5px;">Master</td><td style="padding:5px;">2021-2024</td></tr>
+ <tr><th style="padding:5px;">Name</th><th style="padding:5px;">Degree</th><th style="padding:5px;">Study Period</th><th style="padding:5px;">Research Interest</th></tr>
+ <tr><td style="padding:5px;">Shuliang Ren</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2022-2026</td><td style="padding:5px;"></td></tr>
+ <tr><td style="padding:5px;">Yanxiao Jiang</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2021-2025</td><td style="padding:5px;"></td></tr>
+ <tr><td style="padding:5px;">Jiangpeng Zheng</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2021-2025</td><td style="padding:5px;"></td></tr>
+ <tr><td style="padding:5px;">Ganmin Yin</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2020-2025</td><td style="padding:5px;"></td></tr>
+ <tr><td style="padding:5px;">Houji Qi</td><td style="padding:5px;">Ph.D.</td><td style="padding:5px;">2019-2025</td><td style="padding:5px;"></td></tr>
+ <tr><td style="padding:5px;">Chen Fu</td><td style="padding:5px;">Master</td><td style="padding:5px;">2021-2024</td><td style="padding:5px;"></td></tr>
+ <tr><td style="padding:5px;">Haode Du</td><td style="padding:5px;">Master</td><td style="padding:5px;">2022-2025</td><td style="padding:5px;"></td></tr>
  </table>
 
 <br>
