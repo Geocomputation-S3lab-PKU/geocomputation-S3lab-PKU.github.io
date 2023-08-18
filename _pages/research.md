@@ -38,7 +38,7 @@ To address the challenges of handling, managing, and analyzing geospatial big da
    - **[TGIS'18]** [HiSpatialCluster: A novel high‐performance software tool for clustering massive spatial points](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12463). Chen, Y.; <u><b>Huang, Z.</b></u>*; Pei, T.; Liu, Y. Transactions in GIS, 2018, 22(5), 1275-1298.
    - **[SIMPAT'23]** [PATRIC: A high performance parallel urban transport simulation framework based on traffic clustering](https://www.sciencedirect.com/science/article/pii/S1569190X23000527). Wan, L.; Yin, G.; Wang, J.; Ben-Dor, G.; Ogulenko, A.; <u><b>Huang, Z.</b></u>*. Simulation Modelling Practice and Theory, 2023, 126, 102775.
 
-**3). Fundamental GeoAI Methods**
+**3). Fundamental GeoAI methods**
    - **[KBS'22]** [DouFu: A double fusion joint learning method for driving trajectory representation](https://linkinghub.elsevier.com/retrieve/pii/S0950705122011285). Wang, H.; <u><b>Huang, Z.</b></u>*; Zhou, X.; Yin, G.; Bao, Y.; Zhang, Y. Knowledge-Based Systems, 2022, 258, 110035.
    - **[arXiv'22]** [GWRBoost: A geographically weighted gradient boosting method for explainable quantification of spatially-varying relationships](https://arxiv.org/abs/2212.05814). Wang, H.; <u><b>Huang, Z.</b></u>*; Yin, G.M.; Bao, Y.; Zhou, X.; Gao, Y. arXiv preprint arXiv:2212.05814, 2022, in preparation and to be submitted.
    - **[JAG'22]** [GeoUNet: A novel AI model for high-resolution mapping of ecological footprint](https://linkinghub.elsevier.com/retrieve/pii/S156984322200005X). Ye, R.; <u><b>Huang, Z.</b></u>*; Li, L.; Shan, X. International Journal of Applied Earth Observation and Geoinformation, 2022, 112, 102803.
