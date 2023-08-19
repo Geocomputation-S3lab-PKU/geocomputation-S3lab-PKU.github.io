@@ -28,17 +28,17 @@ To address the challenges of handling, managing, and analyzing geospatial big da
 <br>
 <!-- **Articles collection for this section** -->
 
-**1). Improvements on the large-scale spatiotemporal data storage**
+**Improvements on the large-scale spatiotemporal data storage**
 
    - **[IJDE'23]** [Optimizing segmented trajectory data storage with HBase for improved spatio-temporal query efficiency](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2192979). Bao, Y.; <u><b>Huang, Z.</b></u>*; Gong, X.; Zhang, Y.; Yin, G.; Wang, H. International Journal of Digital Earth, 2023, 16(1), 1124-1143.
    - **[IJGI'17]** [GeoSpark SQL: An effective framework enabling spatial queries on spark](https://www.mdpi.com/2220-9964/6/9/285). <u><b>Huang, Z.</b></u>; Chen, Y.; Wan, L.; Peng, X.*. ISPRS International Journal of Geo-Information, 2017, 6(9), 285.
 
-**2). Optimization of high-performance geocomputing algorithms**
+**Optimization of high-performance geocomputing algorithms**
    - **[FGCS'20]** [High-performance spatiotemporal trajectory matching across heterogeneous data sources](https://linkinghub.elsevier.com/retrieve/pii/S0167739X19319880). Gong, X.; <u><b>Huang, Z.</b></u>*; Wang, Y.; Wu, L.; Liu, Y. Future Generation Computer Systems, 2020, 105, 148-161.
    - **[TGIS'18]** [HiSpatialCluster: A novel high‐performance software tool for clustering massive spatial points](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12463). Chen, Y.; <u><b>Huang, Z.</b></u>*; Pei, T.; Liu, Y. Transactions in GIS, 2018, 22(5), 1275-1298.
    - **[SIMPAT'23]** [PATRIC: A high performance parallel urban transport simulation framework based on traffic clustering](https://www.sciencedirect.com/science/article/pii/S1569190X23000527). Wan, L.; Yin, G.; Wang, J.; Ben-Dor, G.; Ogulenko, A.; <u><b>Huang, Z.</b></u>*. Simulation Modelling Practice and Theory, 2023, 126, 102775.
 
-**3). Fundamental GeoAI methods**
+**Fundamental GeoAI methods**
    - **[KBS'22]** [DouFu: A double fusion joint learning method for driving trajectory representation](https://linkinghub.elsevier.com/retrieve/pii/S0950705122011285). Wang, H.; <u><b>Huang, Z.</b></u>*; Zhou, X.; Yin, G.; Bao, Y.; Zhang, Y. Knowledge-Based Systems, 2022, 258, 110035.
    - **[arXiv'22]** [GWRBoost: A geographically weighted gradient boosting method for explainable quantification of spatially-varying relationships](https://arxiv.org/abs/2212.05814). Wang, H.; <u><b>Huang, Z.</b></u>*; Yin, G.M.; Bao, Y.; Zhou, X.; Gao, Y. arXiv preprint arXiv:2212.05814, 2022, in preparation and to be submitted.
    - **[JAG'22]** [GeoUNet: A novel AI model for high-resolution mapping of ecological footprint](https://linkinghub.elsevier.com/retrieve/pii/S156984322200005X). Ye, R.; <u><b>Huang, Z.</b></u>*; Li, L.; Shan, X. International Journal of Applied Earth Observation and Geoinformation, 2022, 112, 102803.
@@ -57,17 +57,17 @@ Dr. Huang has contributed to the exploration of urban residents' activity patter
 
 <br>
 
-**1). Intelligent sensing algorithms for human activities**
+**Intelligent sensing algorithms for human activities**
    - **[GeoInformatica'23]** [ConvGCN-RF: A hybrid learning model for commuting flow prediction considering geographical semantics and neighborhood effects](https://doi.org/10.1007/s10707-022-00467-0). Yin, G.; <u><b>Huang, Z.</b></u>*; Bao, Y.; Wang, H.; Li, L.; Ma, X.; Zhang, Y. GeoInformatica, 2023, 27(2), 137-157.
    - **[JSTARS'20]** [Mapping human activity volumes through remote sensing imagery](https://linkinghub.elsevier.com/retrieve/pii/S019897152200076X). Xing, X.; <u><b>Huang, Z.</b></u>*; Cheng, X.; Zhu, D.; Kang, C.; Zhang, F.; Liu, Y. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, 13, 5652-5668.
    - **[CEUS'19]** [Inferring demographics from human trajectories and geographical context](https://doi.org/10.1080/24694452.2019.1694403). Wu, L.; Yang, L.; <u><b>Huang, Z.</b></u>*; Wang, Y.; Chai, Y.; Peng, X.; Liu, Y. Computers, Environment and Urban Systems, 2019, 77, 101368.
 
-**2). Assessment methods for supply-demand in urban public transportation**
+**Assessment methods for supply-demand in urban public transportation**
    - **[SciRep'20]** [A unified spatial multigraph analysis for public transport performance](https://www.nature.com/articles/s41598-020-65175-x). Wang, Y.; Zhu, D.; Yin, G.; <u><b>Huang, Z.</b></u>*; Liu, Y. Scientific reports, 2020, 10(1), 9573.
    - **[JAG'22]** [Applying Ollivier-Ricci curvature to indicate the mismatch of travel demand and supply in urban transit network](https://linkinghub.elsevier.com/retrieve/pii/S0303243421003731). Wang, Y.; <u><b>Huang, Z.</b></u>*; Yin, G.; Li, H.; Yang, L.; Su, Y.; Liu, Y.; Shan, X. International Journal of Applied Earth Observation and Geoinformation, 2022, 106, 102666.
    - **[JAG'23]** [How to quantify the travel ratio of urban public transport at a high spatial resolution? A novel computational framework with geospatial big data](https://linkinghub.elsevier.com/retrieve/pii/S1569843223000675). Yin, G.; <u><b>Huang, Z.</b></u>*; Yang, L.; Ben-Elia, E.; Xu, L.; Scheuer, B.; Liu, Y. International Journal of Applied Earth Observation and Geoinformation, 2023, 118, 103245.
 
-**3). Next location prediction and personalized recommendation models**
+**Next location prediction and personalized recommendation models**
    - **[IJDE'22]** [iTourSPOT: a context-aware framework for next POI recommendation in location-based social networks](https://www.tandfonline.com/doi/full/10.1080/17538947.2022.2122611). Wan, L.; Wang, H.; Hong, Y.; Li, R.; Chen, W.; <u><b>Huang, Z.</b></u>*. International Journal of Digital Earth, 2022, 15(1), 1614-1636.
    - **[IJGIS'21]** [A BiLSTM-CNN model for predicting users’ next locations based on geotagged social media](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1808896). Bao, Y.; <u><b>Huang, Z.</b></u>*; Li, L.; Wang, Y.; Liu, Y. International Journal of Geographical Information Science, 2021, 35(4), 639-660.
    - **[IJDE'19]** [Building a model-based personalised recommendation approach for tourist attractions from geotagged social media data](https://doi.org/10.1080/17538947.2018.1471104). Sun, X.; <u><b>Huang, Z.</b></u>*; Peng, X.; Chen, Y.; Liu, Y. International Journal of Digital Earth, 2019, 12(6), 661-678.
@@ -85,15 +85,15 @@ To enhance the quantitative understanding of the built environment, Dr. Huang ha
 </center>
 <br>
 
-**1). Urban land use type identification**
+**Urban land use type identification**
    - **[JSTARS'21]** [An SOE-based learning framework using multisource big data for identifying urban functional zones](https://doi.org/10.1109/JSTARS.2021.3091848). Feng, Y.; <u><b>Huang, Z.</b></u>*; Wang, Y.; Wan, L.; Liu, Y.; Zhang, Y.; Shan, X. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14, 7336-7348.
    - **[RS'20]** [An ensemble learning approach for urban land use mapping based on remote sensing imagery and social sensing data](https://www.mdpi.com/2072-4292/12/19/3254). <u><b>Huang, Z.</b></u>*; Qi, H.; Kang, C.; Su, Y.; Liu, Y. Remote Sensing, 2020, 12(19), 3254.
 
-**2). High-resolution estimation of urban built environment material stocks**
+**High-resolution estimation of urban built environment material stocks**
    - **[JIE'23]** [High‐resolution quantification of building stock using multi‐source remote sensing imagery and deep learning](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13356). Bao, Y.; <u><b>Huang, Z.</b></u>*; Wang, H.; Yin, G.; Zhou, X.; Gao, Y. Journal of Industrial Ecology, 2023, 27(1), 350-361.
    - **[EST'20]** [High-resolution mapping of the urban built environment stocks in Beijing](https://pubs.acs.org/doi/10.1021/acs.est.9b07229). Mao, R.; Bao, Y.; <u><b>Huang, Z.</b></u>*; Liu, Q.; Liu, G.\*. Environmental Science & Technology, 2020, 54(9).
 
-**3). Spatial pattern analysis of urban built environment material stocks**
+**Spatial pattern analysis of urban built environment material stocks**
    - **[Engineering'23]** [Big geodata reveals spatial patterns of built environment stocks across and within cities in China](https://linkinghub.elsevier.com/retrieve/pii/S2095809923002710). <u><b>Huang, Z.</b></u>*; Bao, Y.; Mao, R.; Wang, H.; Yin, G.; Wan, L.; Qi, H.; Li, Q.; Tang, H.; Liu, Q.; Li, L.; Yu, B.; Guo, Q.; Liu, Y.; Guo, H.\*, Liu, G.\*. Engineering, 2023.
 
 <br>

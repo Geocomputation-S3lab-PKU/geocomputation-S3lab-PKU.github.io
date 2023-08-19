@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page\
 weight: 1
 ---
 
-Associate Professor, Peking University<br>
+Associate Professor, Peking University <br>
 Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China<br>
 huangzhou [at] pku.edu.cn<br>
 [Google scholar](https://scholar.google.com/citations?user=BUFSF_8AAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Zhou-Huang-3) | [PKU Homepage](https://faculty.pku.edu.cn/huangzhou) | [CV](/assets/files/CV_HuangZhou.pdf)
