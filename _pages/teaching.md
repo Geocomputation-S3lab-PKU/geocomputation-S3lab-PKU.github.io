@@ -28,11 +28,11 @@ Based on the study and research performance, other awards of group students are 
 
 - Merit Student, Peking University (2017-2018)
 - President Scholarship, Peking University (2022)
-- Nominated for "Gao Junyu Award" of Peking University (One of the highest honors for students at PKU)
+- Nominated for “Gao Junyu Award” of Peking University (One of highest honors for students at PKU)
 - Longruan Scholarship, Peking University (2018, 2019, 2020, 2021, 2022)
-- National College students GIS application skills Grand Prize (2017)
-- Champion of Zhongan University Student Hackathon (2020)
-- The second prize of the seventh SODA Open Data Innovation Application Competition in 2021
+- The Grand Prize of National College Students’ GIS Application Skills Competition (2017)
+- The Champion of Zhongan University Students Hackathon (2020)
+- The Second Prize of the Seventh SODA Open Data Innovation Application Competition (2021)
 
 <br>
 
