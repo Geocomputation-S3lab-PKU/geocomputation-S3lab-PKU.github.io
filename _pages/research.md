@@ -87,7 +87,7 @@ To enhance the quantitative understanding of the built environment, Dr. Huang ha
 
 **Urban land use type identification**
    - **[JSTARS'21]** [An SOE-based learning framework using multisource big data for identifying urban functional zones](https://doi.org/10.1109/JSTARS.2021.3091848). Feng, Y.; <u><b>Huang, Z.</b></u>*; Wang, Y.; Wan, L.; Liu, Y.; Zhang, Y.; Shan, X. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14, 7336-7348.
-   - **[RS'20]** [An ensemble learning approach for urban land use mapping based on remote sensing imagery and social sensing data](https://www.mdpi.com/2072-4292/12/19/3254). <u><b>Huang, Z.</b></u>*; Qi, H.; Kang, C.; Su, Y.; Liu, Y. Remote Sensing, 2020, 12(19), 3254.
+   - **[RS'20]** [An ensemble learning approach for urban land use mapping based on remote sensing imagery and social sensing data](https://www.mdpi.com/2072-4292/12/19/3254). <u><b>Huang, Z.</b></u>; Qi, H.; Kang, C.*; Su, Y.; Liu, Y. Remote Sensing, 2020, 12(19), 3254.
 
 **High-resolution estimation of urban built environment material stocks**
    - **[JIE'23]** [High‐resolution quantification of building stock using multi‐source remote sensing imagery and deep learning](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13356). Bao, Y.; <u><b>Huang, Z.</b></u>*; Wang, H.; Yin, G.; Zhou, X.; Gao, Y. Journal of Industrial Ecology, 2023, 27(1), 350-361.
